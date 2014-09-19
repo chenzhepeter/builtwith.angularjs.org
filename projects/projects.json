@@ -3580,6 +3580,23 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "Owl Reminder for Google Calendar",
+      "thumb": "owl-reminder/thumb.png",
+      "desc": "A Chrome app to provide desktop notification for Google Calendar. Features include instant push updates, rich notification, offline support and a simplistic to-do list UI with snooze and dismiss buttons.",
+      "url": "https://chrome.google.com/webstore/detail/owl-reminder-for-google-c/fgfgfbgekocmkfenbpndokpjjbifncoj",
+      "info": "http://chromeism.com/owl-reminder/",
+      "submitter": "chenzhepeter",
+      "submissionDate": "2014-09-19",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Google Calendar",
+        "Bootstrap",
+        "Free",
+        "No jQuery"
+      ]
     }
 
   ]
